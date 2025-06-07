@@ -1,5 +1,6 @@
 # Lab 10 - Starter
 # cse110-lab10
+Paz Mogrelia
 https://cse110-lab10-pmogrelia.canny.io/
 
 ![Google Analytics Screenshot](screenshots/google-analytics.png)
